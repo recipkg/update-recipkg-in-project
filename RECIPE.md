@@ -5,7 +5,7 @@ format = "recipkg/1"
 
 [package]
 name = "update-recipkg-in-project"
-version = "0.1.0"
+version = "0.1.1"
 kind = "skill"
 description = "Install or update shared Recipkg project skills from their individual canonical GitHub repositories as pinned Git submodules, preserving local work and verifying consumer pointers."
 entry = "SKILL.md"
